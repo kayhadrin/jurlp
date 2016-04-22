@@ -3,6 +3,9 @@ jQuery URL parser.
 
 jQuery URL parser plugin for parsing, manipulating, filtering and monitoring URLs in "href" and "src" attributes within arbitrary elements (including document.location.href), as well as creating anchor elements from URLs found in HTML/text.
 
+**Disclaimer**
+This is just a clone of the [jurlp plugin](https://github.com/tombonner/jurlp) from Thomas James Bonner that I published to npm since it wasn't touched since the last four years. I'm happy to return the npm package to Thomas if he wants to maintain it.
+
 **Version**
 
 1.0.4
