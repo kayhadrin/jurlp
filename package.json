@@ -1,0 +1,29 @@
+{
+  "name": "jurlp",
+  "version": "1.0.4",
+  "description": "jQuery URL parser plugin for parsing, manipulating, filtering and monitoring URLs in \"href\" and \"src\" attributes within arbitrary elements (including document.location.href), as well as creating anchor elements from URLs found in HTML/text.",
+  "main": "jurlp.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kayhadrin/jurlp.git"
+  },
+  "keywords": [
+    "url",
+    "urlparameter",
+    "parameter",
+    "parser",
+    "jQuery"
+  ],
+  "author": "Thomas James Bonner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tombonner/jurlp/issues"
+  },
+  "homepage": "http://tombonner.github.io/jurlp/doc/files/jurlp-js.html"
+}
